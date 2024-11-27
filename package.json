@@ -1,0 +1,21 @@
+﻿{
+  "name": "com.freyja.logger",
+  "version": "1.0.0",
+  "displayName": "Freyja Logger",
+  "description": "Freyja Logger is a custom logging system for Unity that allows you to capture and display log messages.",
+  "unity": "2021.3",
+  "unityRelease": "22f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {},
+  "keywords": [
+    "Log"
+  ],
+  "samples": [],
+  "author": {
+    "name": "Freyja",
+    "email": "",
+    "url": ""
+  }
+}
